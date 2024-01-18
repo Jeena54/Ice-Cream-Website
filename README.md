@@ -46,7 +46,6 @@ Feel free to explore our live website to get a taste of what our ice cream resta
 For more details, visit the [Live website](https://nsicecream.netlify.app/index.html).
 
 ## Contact
-If you have any questions or feedback, please don't hesitate to reach out to me at [natsasion.sri@gmail.com](mailto:natsasion.sri@gmail.com).
-
+If you have any questions or feedback, please don't hesitate to reach out to me at 
 Enjoy exploring the world of Ice cream!
 
