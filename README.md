@@ -68,6 +68,6 @@ Feel free to explore the live website for a firsthand experience of the Thai rec
 For more details, visit the [Live website](http://thairecipesweb.rf.gd/index.php).
 
 ## Contact
-If you have any questions or feedback, please don't hesitate to reach out to me at [natsasion.sri@gmail.com](mailto:natsasion.sri@gmail.com).
+If you have any questions or feedback, please don't hesitate to reach out to me at
 
 Enjoy exploring the world of Thai cuisine with our recipe website!
